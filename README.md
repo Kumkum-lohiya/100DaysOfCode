@@ -21,6 +21,7 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day | Problem | Topic |
 |------|----------|--------|
 | Day 1 | Reverse an Array | Arrays |
+| Day 2 | Remove Duplicates from Array | Arrays |
 
 ## 📌 Note
 This repository contains only my solutions. Problem statements belong to GeeksforGeeks, and links to the original problems are provided in the source files.
