@@ -28,6 +28,7 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 6 | Rotate Array | Arrays |
 | Day 7 | Last Digit of a^b | Mathematics |
 | Day 8 | Choose and Swap | Strings |
+| Day 9 | Maximum Area Between Bars | Two Pointers |
 
 ## 📌 Note
 This repository contains only my solutions. Problem statements belong to GeeksforGeeks, and links to the original problems are provided in the source files.
