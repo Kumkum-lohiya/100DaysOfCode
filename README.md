@@ -19,7 +19,7 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 ## 📅 Progress
 
 | Day | Problem | Topic |
-|------|----------|--------|
+|-----|---------|-------|
 | Day 1 | Reverse an Array | Arrays |
 | Day 2 | Remove Duplicates from Array | Arrays |
 | Day 3 | Majority Element | Arrays |
@@ -30,6 +30,7 @@ In this challenge, I am solving one Data Structures and Algorithms (DSA) problem
 | Day 8 | Choose and Swap | Strings |
 | Day 9 | Maximum Area Between Bars | Two Pointers |
 | Day 10 | Maximum Number of People Defeated | Greedy |
+| Day 11 | Rat Maze With Multiple Jumps | Backtracking |
 
 ## 📌 Note
 This repository contains only my solutions. Problem statements belong to GeeksforGeeks, and links to the original problems are provided in the source files.
